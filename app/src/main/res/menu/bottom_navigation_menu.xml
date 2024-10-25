@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pencil"
+        android:icon="@drawable/pencil"
+        android:title="Pencil" />
+    <item
+        android:id="@+id/nav_iroPencil"
+        android:icon="@drawable/iropen"
+        android:title="Iropen" />
+
+    <item
+        android:id="@+id/nav_eraser"
+        android:icon="@drawable/eraser"
+        android:title="Eraser" />
+
+
+</menu>
